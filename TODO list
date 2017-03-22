@@ -1,0 +1,4 @@
+TODO list:
+
+Eeprom: no access on cortex M0, add an external eeprom or enter the accel calibration values directly in main code after accel calibration.
+ToneAC: is not suitable for Cortex M0, use Tone instead (only one pin will be used).
